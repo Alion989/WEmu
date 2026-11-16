@@ -82,4 +82,4 @@ WEmu is not affiliated with Microsoft, Wine or any game publisher. Use it only w
 
 ---
 
-<div align="center">Made with ❤️ by<a href="https://github.com/Alion989">@Alien</a></div>
+<div align="center">Made with ❤️ by <a href="https://github.com/Alion989">@Alien</a></div>

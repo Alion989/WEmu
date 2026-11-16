@@ -7,7 +7,7 @@
     "size": 0
   },
   "rootfs": {
-    "version": "0.4",
+    "version": "0.3",
     "url": "https://github.com/Alion989/WEmuAPI/releases/download/API/rootfs-0.3.wu",
     "sha256": "",
     "size": 0

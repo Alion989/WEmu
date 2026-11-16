@@ -1,0 +1,11 @@
+{
+  "components": [
+    {"type": "wine", "name": "Proton-10.0-Arm64ec", "title": "Proton 10.0 ARM64EC", "version": "10.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-10.0-Arm64ec.wu", "sha256": "", "size": 0},
+    {"type": "box64", "name": "Box64-0.4.5", "title": "Box64 0.4.5", "version": "0.4.5", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Box64-0.4.5.wu", "sha256": "", "size": 0},
+    {"type": "dxvk", "name": "Dxvk-2.4", "title": "DXVK 2.4", "version": "2.4", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Dxvk-2.4.wu", "sha256": "", "size": 0},
+    {"type": "vkd3d", "name": "Vkd3d-2.14.1", "title": "VKD3D 2.14.1", "version": "2.14.1", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Vkd3d-2.14.1.wu", "sha256": "", "size": 0},
+    {"type": "driver", "name": "Turnip-v27.0.0-R2", "title": "Turnip v27.0.0-R2", "version": "v27.0.0-R2", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Turnip-v27.0.0-R2.wu", "sha256": "", "size": 0},
+    {"type": "fexcore", "name": "Fex-20260101", "title": "FEXCore 20260101", "version": "20260101", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Fex-20260101.wu", "sha256": "", "size": 0},
+    {"type": "wowbox64", "name": "WowBox64-0.4.5", "title": "WowBox64 0.4.5", "version": "0.4.5", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/WowBox64-0.4.5.wu", "sha256": "", "size": 0}
+  ]
+}

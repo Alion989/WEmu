@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "id": "wine-mono",
+      "name": "Wine Mono 10.0.0",
+      "type": "installer",
+      "url": "https://dl.winehq.org/wine/wine-mono/10.0.0/wine-mono-10.0.0-x86.msi",
+      "sha256": "",
+      "size": 0,
+      "args": "/qn",
+      "hidden": true
+    },
+    {
+      "id": "wine-gecko-x86",
+      "name": "Wine Gecko 2.47.4 (32-bit)",
+      "type": "installer",
+      "url": "https://dl.winehq.org/wine/wine-gecko/2.47.4/wine-gecko-2.47.4-x86.msi",
+      "sha256": "",
+      "size": 0,
+      "args": "/qn",
+      "hidden": true
+    },
+    {
+      "id": "wine-gecko-x64",
+      "name": "Wine Gecko 2.47.4 (64-bit)",
+      "type": "installer",
+      "url": "https://dl.winehq.org/wine/wine-gecko/2.47.4/wine-gecko-2.47.4-x86_64.msi",
+      "sha256": "",
+      "size": 0,
+      "args": "/qn",
+      "hidden": true
+    }
+  ]
+}

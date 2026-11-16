@@ -51,7 +51,6 @@ Each one is **downloaded once**, then **installed per game**:
 - **Installer** type: the Wine desktop opens and the installer runs by itself.
 - **Extract** type: the files are unpacked straight into the container, with a progress bar and no desktop.
 
-The list comes from `base-component.json` in this repository, so new components can be added without an app update.
 
 ## Requirements
 

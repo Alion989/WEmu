@@ -43,14 +43,6 @@ container with its own settings.
 4. Add a game, choose its `.exe`, and tune its settings.
 5. Press play. 🎉
 
-## Base Components
-
-Open a game's settings and press **Base Components** to see the available packages.
-Each one is **downloaded once**, then **installed per game**:
-
-- **Installer** type: the Wine desktop opens and the installer runs by itself.
-- **Extract** type: the files are unpacked straight into the container, with a progress bar and no desktop.
-
 
 ## Requirements
 

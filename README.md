@@ -55,6 +55,7 @@ container with its own settings.
 A huge thank you to everyone whose work made WEmu possible:
 
 - **Bruno Sales ([brunodev85](https://github.com/brunodev85))**, creator of Winlator
+- **The412Banner ([The412Banner](https://github.com/The412Banner))**, Winlator modder (Bannerlator)
 - **[ptitSeb](https://github.com/ptitSeb)** and the Box64 contributors
 - **The [FEX-Emu](https://github.com/FEX-Emu) team**
 - **[WineHQ](https://www.winehq.org/)** and everyone who contributes to Wine

@@ -4,7 +4,7 @@
 
 # WEmu
 
-**Windows games & apps on Android, powered by Wine, Box64 and FEX.**
+**Windows games & apps on Android.**
 
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
 ![Status](https://img.shields.io/badge/status-under%20development-orange)

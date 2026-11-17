@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Alion989/WEmu/main/logo.png" width="150" alt="WEmu logo">
 
 # WEmu

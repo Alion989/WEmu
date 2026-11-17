@@ -8,7 +8,6 @@
 
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
 ![Status](https://img.shields.io/badge/status-under%20development-orange)
-![Package](https://img.shields.io/badge/package-ge.alion.wemu-0069FF)
 
 </div>
 

@@ -1,6 +1,5 @@
 {
   "components": [
-    {"type": "wine", "name": "Proton-10.0-Arm64ec", "title": "Proton 10.0 ARM64EC", "version": "10.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-10.0-Arm64ec.wu", "sha256": "", "size": 0},
     {"type": "box64", "name": "Box64-0.4.5", "title": "Box64 0.4.5", "version": "0.4.5", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Box64-0.4.5.wu", "sha256": "", "size": 0},
     {"type": "dxvk", "name": "Dxvk-2.4", "title": "DXVK 2.4", "version": "2.4", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Dxvk-2.4.wu", "sha256": "", "size": 0},
     {"type": "vkd3d", "name": "Vkd3d-2.14.1", "title": "VKD3D 2.14.1", "version": "2.14.1", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Vkd3d-2.14.1.wu", "sha256": "", "size": 0},
@@ -22,6 +21,11 @@
     {"type": "vkd3d", "name": "Vkd3d-3.0.1", "title": "VKD3D 3.0.1", "version": "3.0.1", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Vkd3d-3.0.1.wu", "sha256": "", "size": 0},
     {"type": "vkd3d", "name": "Vkd3d-3.1", "title": "VKD3D 3.1", "version": "3.1", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/Vkd3d-3.1.wu", "sha256": "", "size": 0},
     {"type": "wowbox64", "name": "WowBox64-0.4.1", "title": "WowBox64 0.4.1", "version": "0.4.1", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Components-API/WowBox64-0.4.1.wu", "sha256": "", "size": 0},
-    {"type": "wine", "name": "Proton-10.0-x86_64", "title": "Proton 10.0 x86_64", "version": "10.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-10.0-x86_64.wu", "sha256": "", "size": 0}
+    {"type": "wine", "name": "Proton-10.0-Arm64ec", "title": "Proton 10.0 ARM64EC", "version": "10.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-10.0-Arm64ec.wu", "sha256": "", "size": 0},
+    {"type": "wine", "name": "Proton-10.0-x86_64", "title": "Proton 10.0 x86_64", "version": "10.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-10.0-x86_64.wu", "sha256": "", "size": 0},
+    {"type": "wine", "name": "Proton-11.0-Arm64ec", "title": "Proton 11.0 ARM64EC", "version": "11.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-11.0-Arm64ec.wu", "sha256": "", "size": 0},
+    {"type": "wine", "name": "Proton-11.0-x86_64", "title": "Proton 11.0 x86_64", "version": "11.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-11.0-x86_64.wu", "sha256": "", "size": 0},
+    {"type": "wine", "name": "Proton-9.0-Arm64ec", "title": "Proton 9.0 ARM64EC", "version": "9.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-9.0-Arm64ec.wu", "sha256": "", "size": 0},
+    {"type": "wine", "name": "Proton-9.0-x86_64", "title": "Proton 9.0 x86_64", "version": "9.0", "url": "https://github.com/Alion989/WEmuAPI/releases/download/Wine-API/Proton-9.0-x86_64.wu", "sha256": "", "size": 0}
   ]
 }

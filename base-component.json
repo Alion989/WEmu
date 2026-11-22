@@ -39,8 +39,9 @@
       "size": 89371760,
       "dest": "drive_c/wemu_vcredist",
       "run": "install_all.bat",
-      "preset": "Turbo",
-      "hidden": false
+      "fexPreset": "Turbo",
+      "boxPreset": "Performance",
+      "hidden": true
     }
   ]
 }

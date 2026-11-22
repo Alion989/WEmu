@@ -41,7 +41,7 @@
       "run": "install_all.bat",
       "fexPreset": "Turbo",
       "boxPreset": "Performance",
-      "hidden": true
+      "hidden": false
     }
   ]
 }

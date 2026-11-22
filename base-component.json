@@ -29,6 +29,17 @@
       "size": 0,
       "args": "/qn",
       "hidden": true
+    },
+    {
+      "id": "vc-runtimes-aio",
+      "name": "Visual C++ Runtimes 2005-2022",
+      "type": "extract",
+      "url": "https://github.com/Alion989/WEmuAPI/releases/download/Base-Components-API/visual-c-runtimes-2005-2022.tar.xz",
+      "sha256": "",
+      "size": 89371760,
+      "dest": "drive_c/wemu_vcredist",
+      "run": "install_all.bat",
+      "hidden": true
     }
   ]
 }
